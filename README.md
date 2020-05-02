@@ -7,5 +7,6 @@ The client programs accept input from the player and transmits the command to th
 server which will execute the commands and send a reply back to the client programs.
 
 ### how to run ?
-python minor5server.py <portnumber> /n
+python minor5server.py <portnumber> 
+  
 python minor5client.py <hostname><portnumber>
